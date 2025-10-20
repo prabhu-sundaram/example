@@ -1,4 +1,4 @@
-package src.main.java.dmCrypto;
+package dmCrypto;
 
 import java.util.Hashtable;
 

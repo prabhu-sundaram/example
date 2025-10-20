@@ -1,4 +1,4 @@
-package src.main.java.propTutorial;
+package propTutorial;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

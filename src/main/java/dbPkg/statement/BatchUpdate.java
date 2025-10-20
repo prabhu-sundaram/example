@@ -1,4 +1,4 @@
-package src.main.java.dbPkg.statement;
+package dbPkg.statement;
 
 import java.math.BigDecimal;
 import java.sql.Connection;

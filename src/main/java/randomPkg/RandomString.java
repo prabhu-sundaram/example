@@ -1,4 +1,4 @@
-package src.main.java.randomPkg;
+package randomPkg;
 
 import java.nio.charset.Charset;
 import java.util.Random;

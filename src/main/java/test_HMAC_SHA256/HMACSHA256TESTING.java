@@ -1,4 +1,4 @@
-package src.main.java.test_HMAC_SHA256;
+package test_HMAC_SHA256;
 
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;

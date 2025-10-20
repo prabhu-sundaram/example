@@ -1,4 +1,4 @@
-package src.main.java.productservice.dao;
+package productservice.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import com.dm.springbootjpapostgresql.example.productservice.entity.ProductEntity;

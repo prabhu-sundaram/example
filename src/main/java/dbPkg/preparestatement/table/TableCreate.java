@@ -1,4 +1,4 @@
-package src.main.java.dbPkg.preparestatement.table;
+package dbPkg.preparestatement.table;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

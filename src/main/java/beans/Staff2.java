@@ -1,4 +1,4 @@
-package src.main.java.beans;
+package beans;
 
 import java.math.BigDecimal;
 import java.util.List;

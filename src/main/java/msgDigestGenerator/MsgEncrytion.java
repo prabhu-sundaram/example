@@ -1,4 +1,4 @@
-package src.main.java.msgDigestGenerator;
+package msgDigestGenerator;
 import java.security.MessageDigest;
 import java.util.ArrayList;
 import java.util.Collections;

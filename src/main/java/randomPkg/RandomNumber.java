@@ -1,4 +1,4 @@
-package src.main.java.randomPkg;
+package randomPkg;
 
 import java.security.SecureRandom;
 import java.util.Random;

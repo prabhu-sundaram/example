@@ -1,4 +1,4 @@
-package src.main.java.dbPkg.statement.row;
+package dbPkg.statement.row;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

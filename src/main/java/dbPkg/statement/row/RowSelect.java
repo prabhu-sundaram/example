@@ -1,4 +1,4 @@
-package src.main.java.dbPkg.statement.row;
+package dbPkg.statement.row;
 
 import com.dm.springbootjpapostgresql.example.beans.Employee2;
 

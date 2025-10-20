@@ -1,4 +1,4 @@
-package src.main.java.lombokExample;
+package lombokExample;
 
 import com.dm.springbootjpapostgresql.example.beans.User3;
 

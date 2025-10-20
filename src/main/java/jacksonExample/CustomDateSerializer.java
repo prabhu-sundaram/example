@@ -1,4 +1,4 @@
-package src.main.java.jacksonExample;
+package jacksonExample;
 
 import java.io.IOException;
 import java.text.SimpleDateFormat;

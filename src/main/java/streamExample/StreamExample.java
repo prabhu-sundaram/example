@@ -1,4 +1,4 @@
-package src.main.java.streamExample;
+package streamExample;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;

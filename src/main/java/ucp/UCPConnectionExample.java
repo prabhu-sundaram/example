@@ -1,4 +1,4 @@
-package src.main.java.ucp;
+package ucp;
 
 import java.sql.Connection;
 import java.sql.SQLException;

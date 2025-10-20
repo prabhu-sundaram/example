@@ -1,4 +1,4 @@
-package src.main.java.beans;
+package beans;
 
 //import static org.junit.Assert.assertTrue;
 

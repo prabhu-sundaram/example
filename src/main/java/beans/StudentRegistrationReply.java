@@ -1,4 +1,4 @@
-package src.main.java.beans;
+package beans;
 
 public class StudentRegistrationReply {
     String name;

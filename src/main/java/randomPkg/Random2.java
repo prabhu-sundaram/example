@@ -1,4 +1,4 @@
-package src.main.java.randomPkg;
+package randomPkg;
 import static java.lang.Math.abs;
 import static java.lang.Math.min;
 import static java.lang.Math.pow;

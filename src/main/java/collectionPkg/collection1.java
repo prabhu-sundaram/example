@@ -1,4 +1,4 @@
-package src.main.java.collectionPkg;
+package collectionPkg;
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Deque;

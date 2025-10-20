@@ -1,4 +1,4 @@
-package src.main.java.productservice.entity;
+package productservice.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

@@ -1,4 +1,4 @@
-package src.main.java.encodeDecode;
+package encodeDecode;
 
 import java.io.File;
 import java.io.FileInputStream;

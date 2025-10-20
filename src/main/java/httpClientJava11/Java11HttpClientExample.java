@@ -1,4 +1,4 @@
-package src.main.java.httpClientJava11;
+package httpClientJava11;
 
 import java.io.IOException;
 import java.net.Authenticator;

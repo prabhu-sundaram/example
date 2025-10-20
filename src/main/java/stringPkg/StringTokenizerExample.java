@@ -1,4 +1,4 @@
-package src.main.java.stringPkg;
+package stringPkg;
 
 import java.util.StringTokenizer;
 

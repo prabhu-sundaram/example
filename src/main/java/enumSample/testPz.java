@@ -1,4 +1,4 @@
-package src.main.java.enumSample;
+package enumSample;
 
 import com.dm.springbootjpapostgresql.example.beans.Pizza;
 

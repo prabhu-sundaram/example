@@ -1,4 +1,4 @@
-package src.main.java.msgDigestGenerator;
+package msgDigestGenerator;
 import java.util.HashMap;
 
 public class MsgDigestGenerator

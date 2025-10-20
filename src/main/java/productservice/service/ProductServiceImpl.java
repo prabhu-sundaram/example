@@ -1,4 +1,4 @@
-package src.main.java.productservice.service;
+package productservice.service;
 
 import java.util.Collection;
 import org.springframework.beans.factory.annotation.Autowired;

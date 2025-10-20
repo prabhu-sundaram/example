@@ -1,6 +1,6 @@
 //-----------------------------------ae.gov.dm.PaymentGateway.dao.PaymentInitiationResponse.java-----------------------------------
 
-package src.main.java.beans;
+package beans;
 
 
 public class PaymentInitiationResponse {

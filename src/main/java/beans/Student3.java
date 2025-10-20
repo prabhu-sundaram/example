@@ -1,4 +1,4 @@
-package src.main.java.beans;
+package beans;
 public class Student3{  
   int rollno;  
   String name;  

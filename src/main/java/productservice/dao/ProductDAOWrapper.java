@@ -1,4 +1,4 @@
-package src.main.java.productservice.dao;
+package productservice.dao;
 
 import java.util.ArrayList;
 import java.util.List;

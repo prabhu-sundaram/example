@@ -1,4 +1,4 @@
-package src.main.java.dbPkg.statement.table;
+package dbPkg.statement.table;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

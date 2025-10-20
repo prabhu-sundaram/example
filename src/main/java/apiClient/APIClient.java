@@ -1,4 +1,4 @@
-package src.main.java.apiClient;
+package apiClient;
 
 import java.io.BufferedReader;
 import java.io.File;

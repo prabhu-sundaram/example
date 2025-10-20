@@ -1,4 +1,4 @@
-package src.main.java.jsonExample;
+package jsonExample;
 
 import java.util.HashMap;
 import java.util.Map;

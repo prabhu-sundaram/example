@@ -1,4 +1,4 @@
-package src.main.java.encodeDecode;
+package encodeDecode;
 import java.nio.ByteBuffer;
 import java.nio.charset.StandardCharsets;
 
