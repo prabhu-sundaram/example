@@ -3,7 +3,7 @@ package collectionPkg;
 import java.util.LinkedList;
 import java.util.List;
 
-import com.dm.springbootjpapostgresql.example.beans.Book;
+import beans.Book;
 
 public class BookLinkedList {
 

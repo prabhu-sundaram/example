@@ -1,3 +1,4 @@
+package dataTypeOperator;
 // Demonstrate lifetime of a variable.
 class VarInitDemo {
 public static void main(String[] args) {

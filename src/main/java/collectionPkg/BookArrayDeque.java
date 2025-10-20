@@ -3,7 +3,7 @@ package collectionPkg;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-import com.dm.springbootjpapostgresql.example.beans.Book;
+import beans.Book;
 
 public class BookArrayDeque {
 

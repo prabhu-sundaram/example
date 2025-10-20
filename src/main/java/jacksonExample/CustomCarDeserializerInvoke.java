@@ -7,7 +7,7 @@ import com.fasterxml.jackson.core.Version;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.module.SimpleModule;
-import com.dm.springbootjpapostgresql.example.beans.Car;
+import beans.Car;
 
 public class CustomCarDeserializerInvoke {
 

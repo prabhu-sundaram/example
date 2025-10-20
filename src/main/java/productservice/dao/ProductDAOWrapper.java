@@ -5,8 +5,8 @@ import java.util.List;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
-import com.dm.springbootjpapostgresql.example.productservice.business.bean.ProductBean;
-import com.dm.springbootjpapostgresql.example.productservice.entity.ProductEntity;
+import productservice.business.bean.ProductBean;
+import productservice.entity.ProductEntity;
 @Repository
 public class ProductDAOWrapper {
     @Autowired

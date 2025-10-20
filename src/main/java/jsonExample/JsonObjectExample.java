@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 import org.json.JSONObject;
-import com.dm.springbootjpapostgresql.example.beans.Student;
+import beans.Student;
 
 
 public class JsonObjectExample {

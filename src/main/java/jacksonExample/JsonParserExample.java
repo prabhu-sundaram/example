@@ -10,9 +10,9 @@ import com.fasterxml.jackson.core.JsonFactory;
 import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.core.JsonToken;
-import com.dm.springbootjpapostgresql.example.beans.Address;
-import com.dm.springbootjpapostgresql.example.beans.Car2;
-import com.dm.springbootjpapostgresql.example.beans.Emp;
+import beans.Address;
+import beans.Car2;
+import beans.Emp;
 
 public class JsonParserExample {
 

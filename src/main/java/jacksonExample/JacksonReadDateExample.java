@@ -8,7 +8,7 @@ import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
-import com.dm.springbootjpapostgresql.example.beans.Event;
+import beans.Event;
 
 public class JacksonReadDateExample {
 

@@ -22,15 +22,15 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.databind.node.ObjectNode;
 import com.fasterxml.jackson.databind.util.StdDateFormat;
-import com.dm.springbootjpapostgresql.example.beans.Address;
-import com.dm.springbootjpapostgresql.example.beans.Car;
-import com.dm.springbootjpapostgresql.example.beans.Car2;
-import com.dm.springbootjpapostgresql.example.beans.Emp;
-import com.dm.springbootjpapostgresql.example.beans.Event;
-import com.dm.springbootjpapostgresql.example.beans.Event2;
-import com.dm.springbootjpapostgresql.example.beans.Request;
-import com.dm.springbootjpapostgresql.example.beans.Staff;
-import com.dm.springbootjpapostgresql.example.beans.Staff2;
+import beans.Address;
+import beans.Car;
+import beans.Car2;
+import beans.Emp;
+import beans.Event;
+import beans.Event2;
+import beans.Request;
+import beans.Staff;
+import beans.Staff2;
 
 public class JacksonWriteExample {
 

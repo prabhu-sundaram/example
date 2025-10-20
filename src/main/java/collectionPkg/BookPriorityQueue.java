@@ -3,7 +3,7 @@ package collectionPkg;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
-import com.dm.springbootjpapostgresql.example.beans.Book;
+import beans.Book;
 
 public class BookPriorityQueue {
 

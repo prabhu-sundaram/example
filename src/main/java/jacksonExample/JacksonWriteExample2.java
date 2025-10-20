@@ -6,8 +6,8 @@ import java.util.List;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.dm.springbootjpapostgresql.example.beans.*;
-//import com.dm.springbootjpapostgresql.example.jacksonExample.Employee;
+import beans.*;
+//import jacksonExample.Employee;
 
 
 public class JacksonWriteExample2 {

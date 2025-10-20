@@ -7,7 +7,7 @@ import com.fasterxml.jackson.core.ObjectCodec;
 import com.fasterxml.jackson.databind.DeserializationContext;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.deser.std.StdDeserializer;
-import com.dm.springbootjpapostgresql.example.beans.Car;
+import beans.Car;
 
 public class CustomCarDeserializer extends StdDeserializer<Car> {
     

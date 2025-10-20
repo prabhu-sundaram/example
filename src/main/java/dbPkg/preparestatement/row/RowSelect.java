@@ -3,7 +3,7 @@ package dbPkg.preparestatement.row;
 import java.math.BigDecimal;
 import java.sql.*;
 
-import com.dm.springbootjpapostgresql.example.beans.Employee2;
+import beans.Employee2;
 
 public class RowSelect {
 

@@ -1,5 +1,5 @@
 package comparatorExample;
-import com.dm.springbootjpapostgresql.example.beans.Student33;
+import beans.Student33;
 import java.util.Comparator;
 
 class NameComparator implements Comparator{  

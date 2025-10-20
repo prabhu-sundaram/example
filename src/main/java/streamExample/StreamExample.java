@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import com.dm.springbootjpapostgresql.example.beans.Product;
+import beans.Product;
 
 public class StreamExample {
 

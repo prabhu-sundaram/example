@@ -1,3 +1,4 @@
+package dataTypeOperator;
 // Demonstrate the % operator.
 class ModDemo {
 public static void main(String[] args) {

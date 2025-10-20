@@ -7,8 +7,8 @@ import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.dm.springbootjpapostgresql.example.beans.Car;
-import com.dm.springbootjpapostgresql.example.beans.Car2;
+import beans.Car;
+import beans.Car2;
 
 public class ConfigureSerDeser {
 

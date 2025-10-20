@@ -3,7 +3,7 @@ package collectionPkg;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.dm.springbootjpapostgresql.example.beans.Book;
+import beans.Book;
 public class BookArrayList {  
 public static void main(String[] args) {  
     //Creating list of Books  

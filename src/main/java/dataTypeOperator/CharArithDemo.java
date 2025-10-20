@@ -1,3 +1,4 @@
+package dataTypeOperator;
 // Character variables can be handled like integers.
 class CharArithDemo {
 public static void main(String[] args) {

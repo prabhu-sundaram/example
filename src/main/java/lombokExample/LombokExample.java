@@ -1,6 +1,6 @@
 package lombokExample;
 
-import com.dm.springbootjpapostgresql.example.beans.User3;
+import beans.User3;
 
 public class LombokExample {
 

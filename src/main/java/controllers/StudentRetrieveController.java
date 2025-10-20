@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.dm.springbootjpapostgresql.example.beans.Student;
-import com.dm.springbootjpapostgresql.example.beans.StudentRegistration;
+import beans.Student;
+import beans.StudentRegistration;
 
 @Controller
 public class StudentRetrieveController {

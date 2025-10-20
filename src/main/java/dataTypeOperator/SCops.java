@@ -1,3 +1,4 @@
+package dataTypeOperator;
 // Demonstrate the short-circuit operators.
 class SCops {
 public static void main(String[] args) {

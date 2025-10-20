@@ -1,3 +1,4 @@
+package dataTypeOperator;
 // Demonstrate automatic conversion from long to double.
 class LtoD {
 public static void main(String[] args) {

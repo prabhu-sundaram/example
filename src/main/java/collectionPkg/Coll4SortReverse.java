@@ -3,7 +3,7 @@ package collectionPkg;
 import java.util.ArrayList;
 import java.util.Collections;
 
-import com.dm.springbootjpapostgresql.example.beans.Student3;
+import beans.Student3;
 
 public class Coll4SortReverse {
 

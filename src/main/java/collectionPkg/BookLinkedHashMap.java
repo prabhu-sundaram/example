@@ -3,7 +3,7 @@ package collectionPkg;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-import com.dm.springbootjpapostgresql.example.beans.Book;
+import beans.Book;
 
 public class BookLinkedHashMap {
 

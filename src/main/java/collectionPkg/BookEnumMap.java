@@ -3,7 +3,7 @@ package collectionPkg;
 import java.util.EnumMap;
 import java.util.Map;
 
-import com.dm.springbootjpapostgresql.example.beans.Book;
+import beans.Book;
 
 public class BookEnumMap {
 		// Creating enum  

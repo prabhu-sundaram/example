@@ -1,7 +1,7 @@
 package ComparatorGenericExample;
 
 import java.util.*;
-import com.dm.springbootjpapostgresql.example.beans.Student33;
+import beans.Student33;
 
 import java.io.*;  
 class Simple{  

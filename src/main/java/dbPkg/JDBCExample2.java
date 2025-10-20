@@ -8,7 +8,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.dm.springbootjpapostgresql.example.beans.Employee2;
+import beans.Employee2;
 
 @Component
 public class JDBCExample2 {

@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.PathVariable;
 
-import com.dm.springbootjpapostgresql.example.beans.StudentRegistration;
+import beans.StudentRegistration;
 
 @Controller
 public class StudentDeleteController {

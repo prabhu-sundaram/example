@@ -7,9 +7,9 @@ import java.util.Date;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
-import com.dm.springbootjpapostgresql.example.jacksonExample.CustomDateDeserializer;
-import com.dm.springbootjpapostgresql.example.jacksonExample.CustomDateSerializer;
-import com.dm.springbootjpapostgresql.example.jacksonExample.CustomLocalDateTimeSerializer;
+import jacksonExample.CustomDateDeserializer;
+import jacksonExample.CustomDateSerializer;
+import jacksonExample.CustomLocalDateTimeSerializer;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

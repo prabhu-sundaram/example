@@ -31,7 +31,7 @@ import javax.crypto.spec.SecretKeySpec;
 //import org.junit.Test;
 import org.springframework.core.io.ClassPathResource;
 
-import com.dm.springbootjpapostgresql.example.beans.Student4;
+import beans.Student4;
 
 public class AESUtil {
 

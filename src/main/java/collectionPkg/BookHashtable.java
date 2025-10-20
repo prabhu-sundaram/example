@@ -3,7 +3,7 @@ package collectionPkg;
 import java.util.Hashtable;
 import java.util.Map;
 
-import com.dm.springbootjpapostgresql.example.beans.Book;
+import beans.Book;
 
 public class BookHashtable {
 

@@ -1,6 +1,6 @@
 package dbPkg.statement.row;
 
-import com.dm.springbootjpapostgresql.example.beans.Employee2;
+import beans.Employee2;
 
 import java.math.BigDecimal;
 import java.sql.*;

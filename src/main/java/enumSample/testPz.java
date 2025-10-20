@@ -1,6 +1,6 @@
 package enumSample;
 
-import com.dm.springbootjpapostgresql.example.beans.Pizza;
+import beans.Pizza;
 
 public class testPz {
 

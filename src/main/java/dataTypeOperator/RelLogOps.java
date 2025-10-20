@@ -1,3 +1,4 @@
+package dataTypeOperator;
 public class RelLogOps {
     public static void main(String[] args) {
         int a = 5, b = 10;

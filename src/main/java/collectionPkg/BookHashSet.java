@@ -2,7 +2,7 @@ package collectionPkg;
 
 import java.util.HashSet;
 
-import com.dm.springbootjpapostgresql.example.beans.Book;
+import beans.Book;
 
 public class BookHashSet {
 

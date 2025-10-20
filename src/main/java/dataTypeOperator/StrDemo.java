@@ -1,3 +1,4 @@
+package dataTypeOperator;
 // Demonstrate escape sequences in strings.
 class StrDemo {
 public static void main(String[] args) {

@@ -10,7 +10,7 @@ import com.fasterxml.jackson.core.JsonEncoding;
 import com.fasterxml.jackson.core.JsonFactory;
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.core.util.DefaultPrettyPrinter;
-import com.dm.springbootjpapostgresql.example.beans.Emp;
+import beans.Emp;
 
 public class JsonGeneratorExample {
 

@@ -3,7 +3,7 @@ package beans;
 import java.util.Date;
 
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
-import com.dm.springbootjpapostgresql.example.jacksonExample.CustomDateDeserializer;
+import jacksonExample.CustomDateDeserializer;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

@@ -15,7 +15,7 @@ import java.util.Set;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
-import com.dm.springbootjpapostgresql.example.beans.Product;
+import beans.Product;
 
 public class CollectorsExample {
 

@@ -2,7 +2,7 @@ package productservice.service;
 
 
 import java.util.Collection;
-import com.dm.springbootjpapostgresql.example.productservice.business.bean.ProductBean;
+import productservice.business.bean.ProductBean;
 public interface ProductService {
     Collection<ProductBean> getAllProduct();
     ProductBean getProductDetailsById(int id);

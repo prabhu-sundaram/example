@@ -2,7 +2,7 @@ package Comparator8;
 
 import java.util.*;
 
-import com.dm.springbootjpapostgresql.example.beans.Student33;    
+import beans.Student33;    
 public class TestSort2{    
 public static void main(String args[]){    
 ArrayList<Student33> al=new ArrayList<Student33>();    

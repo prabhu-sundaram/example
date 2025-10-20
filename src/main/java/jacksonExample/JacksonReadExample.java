@@ -27,9 +27,9 @@ import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.dm.springbootjpapostgresql.example.beans.Car;
-import com.dm.springbootjpapostgresql.example.beans.Emp;
-import com.dm.springbootjpapostgresql.example.beans.Staff;
+import beans.Car;
+import beans.Emp;
+import beans.Staff;
 
 public class JacksonReadExample {
 

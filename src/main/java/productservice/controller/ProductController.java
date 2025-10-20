@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
-import com.dm.springbootjpapostgresql.example.productservice.business.bean.ProductBean;
-import com.dm.springbootjpapostgresql.example.productservice.service.ProductServiceImpl;
+import productservice.business.bean.ProductBean;
+import productservice.service.ProductServiceImpl;
 
 @RestController
 public class ProductController {

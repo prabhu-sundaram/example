@@ -3,8 +3,8 @@ package productservice.service;
 import java.util.Collection;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.dm.springbootjpapostgresql.example.productservice.business.bean.ProductBean;
-import com.dm.springbootjpapostgresql.example.productservice.dao.ProductDAOWrapper;
+import productservice.business.bean.ProductBean;
+import productservice.dao.ProductDAOWrapper;
 @Service
 public class ProductServiceImpl implements ProductService {
     @Autowired
