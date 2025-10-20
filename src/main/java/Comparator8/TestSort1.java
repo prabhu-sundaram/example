@@ -1,4 +1,4 @@
-package example.Comparator8;
+package src.main.java.Comparator8;
 
 import java.util.*;
 

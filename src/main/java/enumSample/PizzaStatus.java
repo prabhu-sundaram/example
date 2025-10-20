@@ -1,4 +1,4 @@
-package example.enumSample;
+package src.main.java.enumSample;
 
 public enum PizzaStatus {
     ORDERED,

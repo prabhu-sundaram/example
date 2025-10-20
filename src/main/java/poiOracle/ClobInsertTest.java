@@ -1,4 +1,4 @@
-package example.poiOracle;
+package src.main.java.poiOracle;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

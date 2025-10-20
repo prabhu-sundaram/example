@@ -1,4 +1,4 @@
-package example.dbPkg.callablestatement;
+package src.main.java.dbPkg.callablestatement;
 
 import java.math.BigDecimal;
 import java.sql.*;

@@ -1,4 +1,4 @@
-package example.timePkg;
+package src.main.java.timePkg;
 
 /*java.time.format.DateTimeFormatter class
 

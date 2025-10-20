@@ -1,4 +1,4 @@
-package example.jacksonExample;
+package src.main.java.jacksonExample;
 
 import java.io.IOException;
 import java.text.ParseException;

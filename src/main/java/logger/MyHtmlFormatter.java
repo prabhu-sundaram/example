@@ -1,4 +1,4 @@
-package example.logger;
+package src.main.java.logger;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

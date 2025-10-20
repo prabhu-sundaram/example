@@ -1,4 +1,4 @@
-package example.dbPkg;
+package src.main.java.dbPkg;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

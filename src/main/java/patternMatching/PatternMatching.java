@@ -1,4 +1,4 @@
-package example.patternMatching;
+package src.main.java.patternMatching;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

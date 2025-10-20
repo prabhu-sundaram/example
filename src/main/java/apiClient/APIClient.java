@@ -1,4 +1,4 @@
-package example.apiClient;
+package src.main.java.apiClient;
 
 import java.io.BufferedReader;
 import java.io.File;

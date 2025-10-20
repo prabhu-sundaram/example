@@ -1,4 +1,4 @@
-package example.collectionPkg;
+package src.main.java.collectionPkg;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.ObjectInputStream;

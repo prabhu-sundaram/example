@@ -1,4 +1,4 @@
-package example.mysql.pkg;
+package src.main.java.mysql.pkg;
 
 public class Main {
     public static void main(String[] args) throws Exception {

@@ -1,4 +1,4 @@
-package example.collectionPkg;
+package src.main.java.collectionPkg;
 
 import java.util.HashSet;
 

@@ -1,4 +1,4 @@
-package example.xmlValidation;
+package src.main.java.xmlValidation;
 
 import java.io.File;
 import java.io.IOException;

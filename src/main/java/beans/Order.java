@@ -1,4 +1,4 @@
-package example.beans;
+package src.main.java.beans;
 
 public class Order {
 private int orderId;

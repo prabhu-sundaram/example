@@ -1,4 +1,4 @@
-package example.jacksonExample;
+package src.main.java.jacksonExample;
 
 import java.io.File;
 import java.io.FileNotFoundException;

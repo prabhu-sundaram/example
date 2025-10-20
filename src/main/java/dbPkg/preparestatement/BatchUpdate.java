@@ -1,4 +1,4 @@
-package example.dbPkg.preparestatement;
+package src.main.java.dbPkg.preparestatement;
 
 import java.math.BigDecimal;
 import java.sql.*;

@@ -1,4 +1,4 @@
-package example.productservice.business.bean;
+package src.main.java.productservice.business.bean;
 
 public class ProductBean {
 

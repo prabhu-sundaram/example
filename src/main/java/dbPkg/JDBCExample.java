@@ -1,4 +1,4 @@
-package example.dbPkg;
+package src.main.java.dbPkg;
 
 import org.springframework.stereotype.Component;
 import org.springframework.beans.factory.annotation.Autowired;

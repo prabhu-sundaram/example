@@ -1,4 +1,4 @@
-package example.poiOracle;
+package src.main.java.poiOracle;
 
 import java.io.FileInputStream;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package example.beans;
+package src.main.java.beans;
 
 public class Product{  
     int id;  

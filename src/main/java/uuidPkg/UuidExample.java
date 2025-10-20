@@ -1,4 +1,4 @@
-package example.uuidPkg;
+package src.main.java.uuidPkg;
 
 import java.security.MessageDigest;
 import java.util.UUID;

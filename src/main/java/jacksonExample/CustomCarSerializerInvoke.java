@@ -1,4 +1,4 @@
-package example.jacksonExample;
+package src.main.java.jacksonExample;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.Version;

@@ -1,4 +1,4 @@
-package example.testAES;
+package src.main.java.testAES;
 
 //import static org.junit.Assert.assertThat;
 

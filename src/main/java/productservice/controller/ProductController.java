@@ -1,4 +1,4 @@
-package example.productservice.controller;
+package src.main.java.productservice.controller;
 
 import java.util.ArrayList;
 import java.util.List;

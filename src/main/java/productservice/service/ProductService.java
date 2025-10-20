@@ -1,4 +1,4 @@
-package example.productservice.service;
+package src.main.java.productservice.service;
 
 
 import java.util.Collection;

@@ -1,4 +1,4 @@
-package example.encodeDecode;
+package src.main.java.encodeDecode;
 
 import org.apache.commons.codec.binary.Base64;
 

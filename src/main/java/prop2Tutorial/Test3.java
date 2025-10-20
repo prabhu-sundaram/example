@@ -1,4 +1,4 @@
-package example.prop2Tutorial;
+package src.main.java.prop2Tutorial;
 
 import java.io.FileInputStream;
 import java.io.IOException;

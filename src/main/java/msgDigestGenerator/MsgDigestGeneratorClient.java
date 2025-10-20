@@ -1,4 +1,4 @@
-package example.msgDigestGenerator;
+package src.main.java.msgDigestGenerator;
 
 public class MsgDigestGeneratorClient {
 

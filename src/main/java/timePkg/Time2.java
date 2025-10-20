@@ -1,4 +1,4 @@
-package example.timePkg;
+package src.main.java.timePkg;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

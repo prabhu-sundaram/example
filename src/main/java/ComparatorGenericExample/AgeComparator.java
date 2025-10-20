@@ -1,4 +1,4 @@
-package example.ComparatorGenericExample;
+package src.main.java.ComparatorGenericExample;
 
 import java.util.*;
 

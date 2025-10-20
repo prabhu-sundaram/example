@@ -1,4 +1,4 @@
-package example.arrayPkg;
+package src.main.java.arrayPkg;
 
 public class Test {
 

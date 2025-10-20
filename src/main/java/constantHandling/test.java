@@ -1,4 +1,4 @@
-package example.constantHandling;
+package src.main.java.constantHandling;
 
 public class test {
 

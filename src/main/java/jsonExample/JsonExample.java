@@ -1,4 +1,4 @@
-package example.jsonExample;
+package src.main.java.jsonExample;
 
 import org.json.CDL;
 import org.json.Cookie;

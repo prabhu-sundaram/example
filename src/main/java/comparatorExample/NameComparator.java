@@ -1,4 +1,4 @@
-package example.comparatorExample;
+package src.main.java.comparatorExample;
 import com.dm.springbootjpapostgresql.example.beans.Student33;
 import java.util.Comparator;
 

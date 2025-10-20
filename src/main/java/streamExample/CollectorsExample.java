@@ -1,4 +1,4 @@
-package example.streamExample;
+package src.main.java.streamExample;
 
 import static java.util.stream.Collectors.*;
 //import static org.junit.Assert.assertThat;

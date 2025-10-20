@@ -1,6 +1,6 @@
 //-----------------------------------ae.gov.dm.PaymentGateway.dao.PaymentInitiationRequest.java-----------------------------------
 
-package example.beans;
+package src.main.java.beans;
 
 import java.util.List;
 

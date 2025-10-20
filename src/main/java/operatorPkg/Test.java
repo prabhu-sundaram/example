@@ -1,4 +1,4 @@
-package example.operatorPkg;
+package src.main.java.operatorPkg;
 
 import java.util.Date;
 

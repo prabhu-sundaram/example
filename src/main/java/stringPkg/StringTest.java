@@ -1,4 +1,4 @@
-package example.stringPkg;
+package src.main.java.stringPkg;
 
 import java.util.Arrays;
 

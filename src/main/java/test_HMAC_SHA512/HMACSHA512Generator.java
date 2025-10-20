@@ -1,4 +1,4 @@
-package example.test_HMAC_SHA512;
+package src.main.java.test_HMAC_SHA512;
 
 import java.awt.RenderingHints.Key;
 

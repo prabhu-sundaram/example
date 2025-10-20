@@ -1,4 +1,4 @@
-package example.jacksonExample;
+package src.main.java.jacksonExample;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

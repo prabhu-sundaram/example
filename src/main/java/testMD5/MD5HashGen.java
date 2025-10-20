@@ -1,4 +1,4 @@
-package example.testMD5;
+package src.main.java.testMD5;
 
 
 //import static org.junit.Assert.assertThat;

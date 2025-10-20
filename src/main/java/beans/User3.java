@@ -1,4 +1,4 @@
-package example.beans;
+package src.main.java.beans;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

@@ -1,4 +1,4 @@
-package example.beans;
+package src.main.java.beans;
 
 import java.io.Serializable;
 import java.util.Objects;

@@ -1,4 +1,4 @@
-package example.ucp;
+package src.main.java.ucp;
 
 /* Copyright (c) 2015, Oracle and/or its affiliates. All rights reserved.*/
 
