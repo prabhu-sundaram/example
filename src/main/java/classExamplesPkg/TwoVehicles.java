@@ -21,6 +21,19 @@ System.out.println("Minivan can carry " + minivan.passengers +
 " with a range of " + range1);
 System.out.println("Sportscar can carry " + sportscar.passengers +
 " with a range of " + range2);
+
+System.out.print("Minivan can carry " + minivan.passengers +
+". ");
+minivan.range(); // display range of minivan
+System.out.print("Sportscar can carry " + sportscar.passengers +
+". ");
+sportscar.range(); // display range of sportscar.
+
+//int range1, range2;
+// get the ranges
+range1 = minivan.range2();
+range2 = sportscar.range2();
+
 }
 }
 
