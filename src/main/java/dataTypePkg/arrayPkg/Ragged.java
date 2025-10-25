@@ -1,4 +1,4 @@
-package dataTypePkg;
+package dataTypePkg.arrayPkg;
 
 // Manually allocate differing size second dimensions.
 class Ragged {

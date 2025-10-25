@@ -1,4 +1,4 @@
-package arrayPkg;
+package dataTypePkg.arrayPkg;
 
 public class tutorial {
 

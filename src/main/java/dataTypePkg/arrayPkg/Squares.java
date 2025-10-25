@@ -1,4 +1,4 @@
-package dataTypePkg;
+package dataTypePkg.arrayPkg;
 
 // Initialize a two-dimensional array.
 class Squares {

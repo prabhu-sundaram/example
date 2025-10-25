@@ -1,4 +1,4 @@
-package dataTypePkg;
+package dataTypePkg.arrayPkg;
 
 // Assigning array reference variables.
 class AssignARef {

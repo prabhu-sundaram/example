@@ -1,4 +1,4 @@
-package dataTypePkg;
+package dataTypePkg.arrayPkg;
 
 class Bubble {
 public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package dataTypePkg;
+package dataTypePkg.arrayPkg;
 
 // Demonstrate an array overrun.
 class ArrayErr {
