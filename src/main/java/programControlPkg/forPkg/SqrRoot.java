@@ -1,4 +1,4 @@
-package programControlPkg;
+package programControlPkg.forPkg;
 
 // Show square roots of 1 to 99 and the rounding error.
 class SqrRoot {
