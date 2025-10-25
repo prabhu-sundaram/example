@@ -1,4 +1,4 @@
-package dataTypePkg;
+package dataTypePkg.arrayPkg;
 
 // Demonstrate a two-dimensional array.
 class TwoD {

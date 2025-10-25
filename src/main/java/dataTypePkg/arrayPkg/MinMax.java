@@ -1,4 +1,4 @@
-package dataTypePkg;
+package dataTypePkg.arrayPkg;
 
 // Find the minimum and maximum values in an array.
 class MinMax {
