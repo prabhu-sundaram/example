@@ -1,4 +1,4 @@
-package dataTypePkg;
+package dataTypePkg.stringPkg;
 // Demonstrate escape sequences in strings.
 class StrDemo {
 public static void main(String[] args) {

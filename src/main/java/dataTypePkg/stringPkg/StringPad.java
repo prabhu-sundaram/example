@@ -1,4 +1,4 @@
-package stringPkg;
+package dataTypePkg.stringPkg;
 
 import org.apache.commons.lang3.StringUtils;
 
@@ -38,7 +38,7 @@ public class StringPad {
 		
 		System.out.println("------------------------------");		
 		System.out.println("-------------String.format-----------------");		
-
+		System.out.println(String.format("%1$" + length + "s", inputString));
 		System.out.println(String.format("%1$" + length + "s", inputString).replace(' ', '0'));
 		
 		System.out.println("------------------------------");		

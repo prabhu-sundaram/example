@@ -1,4 +1,4 @@
-package stringPkg;
+package dataTypePkg.stringPkg;
 
 import java.util.Arrays;
 
@@ -18,11 +18,13 @@ public class StringTest {
 	    	trueOrFalse="true";
 
 	    System.out.println(trueOrFalse);
+		System.out.println(contains);
+
 		System.out.println("----------------------------");
 		
 		//removeAllTabfromString
 
-		String	input = "1dsfsdf 2erfsdfsd	3esdfgd	4dgdfgdf ";
+		String	input = "1dsfsdf	2erfsdfsd	3esdfgd 4dgdfgdf ";
 
 	input=input.trim();
 	String output=input.replaceAll("[\t]", "");

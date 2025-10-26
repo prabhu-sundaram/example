@@ -1,4 +1,4 @@
-package stringPkg;
+package dataTypePkg.stringPkg;
 
 public class StringExample {
 
@@ -62,8 +62,8 @@ public class StringExample {
 		      String s52="Sachin";  
 		      String s53="Ratan";  
 		      System.out.println(s51.compareTo(s52));//0  
-		      System.out.println(s51.compareTo(s53));//1(because s1>s3)  
-		      System.out.println(s53.compareTo(s51));//-1(because s3 < s1 )  
+		      System.out.println(s51.compareTo(s53));//1(because s51>s53)  
+		      System.out.println(s53.compareTo(s51));//-1(because s53 < s51 )  
 		      System.out.println("-------------------");
 		      System.out.println("--------++++++++++,append,concat-----------");
 

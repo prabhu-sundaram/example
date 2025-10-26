@@ -1,4 +1,4 @@
-package stringPkg;
+package dataTypePkg.stringPkg;
 
 public class StringInstanceTest {
 	 public static void main(String args[]){  
